@@ -1,12 +1,6 @@
-# Welcome to the Jupyter Notebook Project
-
 Please choose your language / 請選擇語言：
-
 - [English Version](README_EN.md)
 - [中文版](README_ZH.md)
-
-我可以為你撰寫一個 README.md 檔案的範本，介紹你上傳到 GitHub 的三個 `.ipynb` Jupyter Notebook 檔案。
-
 
 # 作業檔案 - Jupyter Notebook 專案
 
