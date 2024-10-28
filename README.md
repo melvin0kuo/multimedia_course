@@ -8,6 +8,7 @@ Please choose your language / 請選擇語言：
 
 ## 檔案說明
 ### 每個禮拜會更新新的ipynb以及圖片檔案至新的Week
+### 從IP03開始，應教授需求，檔案名稱更改為 `IP0X_class-410XXXXXX.ipynb`
 ### 1. `410770175_IP01_class.ipynb`
 本 Notebook 涵蓋了第 1 章的課堂內容，提供基礎的理論和程式範例。內容可能包含：
 - Python 基礎語法
@@ -20,7 +21,7 @@ Please choose your language / 請選擇語言：
 - 模型訓練與測試
 - 機器學習模型評估
 
-### 3. `410770175_IP03_class.ipynb`
+### 3. `IP03_class-410770175.ipynb`
 這份 Notebook 承接前述內容，進一步深入探索 IP03 的課題，包括但不限於：
 - 更複雜的模型架構
 - 進階的資料增強技術
