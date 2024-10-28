@@ -7,6 +7,8 @@ This GitHub repository contains three Jupyter Notebook files as part of an assig
 
 ## File Descriptions
 
+### From IP03,change file name to IP0X_410XXXXXX.ipynb
+
 ### 1. `410770175_IP01_class.ipynb`
 This notebook covers the content of Chapter 1, providing fundamental theories and code examples. It may include:
 - Basic Python syntax
@@ -19,7 +21,7 @@ This notebook focuses on topics related to IP02, covering advanced subjects such
 - Model training and testing
 - Machine learning model evaluation
 
-### 3. `410770175_IP03_class.ipynb`
+### 3. `IP03_class_410770175.ipynb`
 This notebook continues from the previous content and delves deeper into the topics of IP03, including but not limited to:
 - More complex model architectures
 - Advanced data augmentation techniques
