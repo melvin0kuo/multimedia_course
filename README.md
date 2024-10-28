@@ -1,6 +1,6 @@
 Please choose your language / 請選擇語言：
 - [English Version](README_EN.md)
-- [中文版](README_ZH.md)
+- [中文版](README.md)
 
 # 作業檔案 - Jupyter Notebook 專案
 
